@@ -1,0 +1,4 @@
+#Sat Feb 16 11:46:16 EST 2019
+base.0=D\:\\Software\\AndroidStudioProjects\\GroupMessenger1\\GroupMessenger1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
